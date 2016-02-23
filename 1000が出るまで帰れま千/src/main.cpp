@@ -78,5 +78,6 @@ int main()
 		font.draw(std::to_string(count), Vec2f(-200, 600), Color::white);
 
 		App::Get().end();
+
 	}
 }

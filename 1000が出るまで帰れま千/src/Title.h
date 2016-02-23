@@ -2,7 +2,7 @@
 #include "AppSetup.h"
 #include "SceneBase.h"
 
-class Title : SceneBase
+class Title : public SceneBase
 {
 public:
 

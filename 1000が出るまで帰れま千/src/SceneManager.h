@@ -18,5 +18,7 @@ public:
 	void Draw();
 
 private:
+	std::shared_ptr<SceneBase> base;
+
 
 };
