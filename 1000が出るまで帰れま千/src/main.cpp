@@ -1,4 +1,7 @@
 ﻿#include "AppSetup.h"
+#include "SceneManager.h"
+
+#include "Utility.h"
 
 int main()
 {

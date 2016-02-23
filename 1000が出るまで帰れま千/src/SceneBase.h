@@ -4,14 +4,15 @@
 class SceneBase
 {
 public:
-	SceneBase(){}
 
 	virtual ~SceneBase(){}
 
 	virtual void Setup(){}
 
-	virtual void Upate(){}
+	virtual void Update(){}
 
 	virtual void Draw(){}
+
+private:
 
 };

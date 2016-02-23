@@ -1,7 +1,8 @@
 #pragma once
 #include "AppSetup.h"
+#include "SceneBase.h"
 
-class Title
+class Title : SceneBase
 {
 public:
 
