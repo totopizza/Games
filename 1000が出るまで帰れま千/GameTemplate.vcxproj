@@ -45,9 +45,11 @@
     <ClInclude Include="src\lib\utils.hpp" />
     <ClInclude Include="src\lib\vector.hpp" />
     <ClInclude Include="src\lib\wav.hpp" />
-    <ClInclude Include="src\SceneManager.h" />
+    <ClInclude Include="src\ModeBase.h" />
+    <ClInclude Include="src\SceneBase.h" />
     <ClInclude Include="src\SelectMode.h" />
     <ClInclude Include="src\Title.h" />
+    <ClInclude Include="src\Utility.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\AppSetup.cpp" />

@@ -16,6 +16,9 @@
     <Filter Include="Class\Scene">
       <UniqueIdentifier>{b49b1576-e984-4257-828a-bd1111a18ff5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Class\Mode">
+      <UniqueIdentifier>{1f2655fb-5319-4ff0-9cf3-94c70988d44c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\lib\appEnv.hpp">
@@ -91,9 +94,6 @@
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="src\AppSetup.h" />
-    <ClInclude Include="src\SceneManager.h">
-      <Filter>Class\Manager</Filter>
-    </ClInclude>
     <ClInclude Include="src\GameMain.h">
       <Filter>Class\Scene</Filter>
     </ClInclude>
@@ -102,6 +102,13 @@
     </ClInclude>
     <ClInclude Include="src\Title.h">
       <Filter>Class\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SceneBase.h">
+      <Filter>Class\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utility.h" />
+    <ClInclude Include="src\ModeBase.h">
+      <Filter>Class\Mode</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

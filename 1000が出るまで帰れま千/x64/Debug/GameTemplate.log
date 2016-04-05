@@ -1,36 +1,12 @@
-﻿2016/02/20 23:29:40 にビルドを開始しました。
-     1>ノード 2 上のプロジェクト "C:\Users\vantan\Desktop\1000が出るまで帰れま千\GameTemplate.vcxproj" (Build ターゲット)。
+﻿2016/02/23 15:42:51 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\vantan\Documents\GitHub\Games\1000が出るまで帰れま千\GameTemplate.vcxproj" (Build ターゲット)。
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GameTemplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /MP /Od /D WIN32 /D _DEBUG /D _WINDOWS /D DEBUG /D _ITERATOR_DEBUG_LEVEL=0 /D "PRODUCT_NAME=千が出るまで帰れま千" /GF /Gm- /EHsc /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt src\AppSetup.cpp src\GameMain.cpp src\lib\appEnv.cpp src\lib\audio.cpp src\lib\camera2D.cpp src\lib\fileUtil.cpp src\lib\font.cpp src\lib\gamePad.cpp src\lib\glExt.cpp src\lib\glfwWindow.cpp src\lib\glTexture.cpp src\lib\graph.cpp src\lib\matrix.cpp src\lib\os_osx.cpp src\lib\os_win.cpp src\lib\png.cpp src\lib\random.cpp src\lib\streaming.cpp src\lib\streamWav.cpp src\lib\texture.cpp src\lib\utils.cpp src\lib\wav.cpp src\main.cpp src\SceneManager.cpp src\SelectMode.cpp src\Title.cpp
-         AppSetup.cpp
-         GameMain.cpp
-         appEnv.cpp
-         audio.cpp
-         camera2D.cpp
-         fileUtil.cpp
-         font.cpp
-         gamePad.cpp
-         glExt.cpp
-         glfwWindow.cpp
-         glTexture.cpp
-         graph.cpp
-         matrix.cpp
-         os_osx.cpp
-         os_win.cpp
-         png.cpp
-         random.cpp
-         streaming.cpp
-         streamWav.cpp
-         texture.cpp
-         utils.cpp
-         wav.cpp
-         main.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /MP /Od /D WIN32 /D _DEBUG /D _WINDOWS /D DEBUG /D _ITERATOR_DEBUG_LEVEL=0 /D "PRODUCT_NAME=千が出るまで帰れま千" /GF /Gm- /EHsc /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt src\SceneManager.cpp src\main.cpp
          SceneManager.cpp
-         SelectMode.cpp
-         Title.cpp
+         main.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vantan\Desktop\1000が出るまで帰れま千\千が出るまで帰れま千.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vantan\Desktop\1000が出るまで帰れま千\千が出るまで帰れま千.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vantan\Desktop\1000が出るまで帰れま千\千が出るまで帰れま千.lib" /MACHINE:X64 x64\Debug\AppSetup.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vantan\Documents\GitHub\Games\1000が出るまで帰れま千\千が出るまで帰れま千.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vantan\Documents\GitHub\Games\1000が出るまで帰れま千\千が出るまで帰れま千.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vantan\Documents\GitHub\Games\1000が出るまで帰れま千\千が出るまで帰れま千.lib" /MACHINE:X64 x64\Debug\AppSetup.obj
          x64\Debug\GameMain.obj
          x64\Debug\appEnv.obj
          x64\Debug\audio.obj
@@ -56,9 +32,9 @@
          x64\Debug\SceneManager.obj
          x64\Debug\SelectMode.obj
          x64\Debug\Title.obj
-         GameTemplate.vcxproj -> C:\Users\vantan\Desktop\1000が出るまで帰れま千\千が出るまで帰れま千.exe
-     1>プロジェクト "C:\Users\vantan\Desktop\1000が出るまで帰れま千\GameTemplate.vcxproj" (Build ターゲット) のビルドが完了しました。
+         GameTemplate.vcxproj -> C:\Users\vantan\Documents\GitHub\Games\1000が出るまで帰れま千\千が出るまで帰れま千.exe
+     1>プロジェクト "C:\Users\vantan\Documents\GitHub\Games\1000が出るまで帰れま千\GameTemplate.vcxproj" (Build ターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
 
-経過時間 00:00:13.14
+経過時間 00:00:02.00
